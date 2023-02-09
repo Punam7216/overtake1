@@ -1,0 +1,28 @@
+$brand:#055999;
+$w:#fff;
+.navbar-expand-lg .navbar-nav .nav-link .dropdown-item
+{
+    color: $brand;
+    padding:10px 15px;
+
+}
+.navbar-nav .nav-link.active
+{
+    background: $brand;
+    color:$w;
+}
+.box
+{
+    background: #ccc;
+    padding: 25px 10px;
+    i
+    {
+        font-size:55px;
+        padding:20px 0;
+    }
+}
+.team
+{
+    background: $brand;
+    color: $w;
+}
